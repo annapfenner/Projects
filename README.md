@@ -17,6 +17,12 @@ Welcome to my data science and machine learning practice repository! This reposi
    - Results: Achieved a precision score of 0.8856 using CountVectorizer and 0.8830 using TF-IDF Vectorizer.
    - Next Steps: Explore other models such as Random Forest and LSTM neural networks.
 
+2. Project 2: Customer Segmentation Using Clustering Algorithms
+   - Description: This project aims to segment customers based on various demographic and spending attributes, including age, education, income, and purchase behavior. Clustering algorithms such as K-means and DBSCAN are employed to identify distinct customer groups.
+   - Techniques Used: Feature engineering, StandardScalar, PCA, clustering algorithms (K-means, DBSCAN), evaluation metrics (Silhouette Score, Calinski-Harabasz Index).
+   - Results: Achieved optimal clustering with K-means, yielding a Silhouette Score of 0.3614 and a Calinski-Harabasz Index of 2845.15. DBSCAN, while attempted, showed suboptimal performance with a Silhouette Score of 0.2538 and a Calinski-Harabasz Index of 30.21.
+   - Next Steps: Further refine clustering algorithms and explore additional features for segmentation.
+
 
 ### Project Structure
 
